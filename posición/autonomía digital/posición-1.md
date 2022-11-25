@@ -16,7 +16,7 @@ otro fin que el de la toma de decisiones sobre la legislación.
 En cuanto al software que admitiríamos para la presentación de archivos o documentos:  
 • Documentos tratados con la suite de oficina `NOMBRE DE APLICACIÓN ENCRIPTADA`, y que no sean copiados
 automáticamente ni manualmente a la nube.  
-• Documentos tratados con ´APLICACIÓN ENCRIPTADA`. En ese caso una `MEDIDA DE SEGURIDAD` debe de ser
+• Documentos tratados con `APLICACIÓN ENCRIPTADA`. En ese caso una `MEDIDA DE SEGURIDAD` debe de ser
 activada. Si no sabes lo que es o como activarla, no uses `APLICACIÓN ENCRIPTADA` o pide ayuda.  
 • Los documentos deberán ser enviados cifrados, mediante la utilización de `APLICACIÓN ENCRIPTADA` o algún programa de encriptado de archivos.  
 En cuanto al software que usa la UP, su grado de dependencia y el resto de información
