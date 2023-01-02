@@ -10,7 +10,7 @@ Las herramientas que cumplan con las siguientes condiciones deben de ser admitid
 1. La copia de los programas debe de actualizarse como mínimo una vez al año.
 
 ## 2. Almacenado de los doumentos
-1. Los documentos no deben ser de ninguna manera almacenados en un dispositivo personal al que otras personas tengan acceso.
+1. Los documentos no deben alamacenarse en el dispositivo personal de una persona, estando permitido que dentro de una app de mensajería permanezcan archivos pero que estos no sean exportados de la aplicación.
 
 ## 3. Archivos de la UP
-1. Debe de realizarse una copia de seguridad sobre los documentos de la Unión Papelera.
+1. Debe de realizarse una copia de seguridad sobre los documentos de la Unión Papelera al menos una vez al año.
