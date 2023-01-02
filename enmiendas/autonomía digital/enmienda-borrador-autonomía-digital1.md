@@ -1,5 +1,5 @@
 # Ley de Autonomía digital
-Propuesta inicial del PPE
+Enmienda de la comisión
 ## 1. Herramientas de uso permitido
 Las herramientas que cumplan con las siguientes condiciones deben de ser admitidas
 1. Las herramientas deben de ser de código abierto siempre que sea posible y se debe fomentar el uso de estándares abiertos.
