@@ -7,7 +7,9 @@ En la rama `main` podrás encontrar las versiones de las leyes actuales, y en el
 que introdujo los cambios o a la comisión entre paréntesis. En el comentario del commit encontrarás
 información sobre la ley en cuestión, como la fecha, quién la propuso... Puede que esto no se aplique a las versiones de las leyes publicadas antes del
 25-11-2022. <br><br>
-En las ramas `H-Nombre de partido` podrás acceder a las propuestas, posiciones y enmiendas de cada partido y de la comisión. Puedes moverte por las ramas haciendo click encima de main.
+En las ramas `H-Nombre de partido` podrás acceder a las propuestas, posiciones y enmiendas de cada partido y de la comisión. Puedes moverte por las ramas haciendo click encima de main.  
+
+En la rama `votaciones` podrás acceder a los resultados de las votaciones de una ley. Esto no se aplica a las leyes de antes del 3-1-2023 cuando se implementó este sistema.
 ## Testimonio del presidente de la comisión
 `25-11-2022`
 > "Queremos que este repositorio sirva como archivo para las leyes de la Unión Papelera y para su mejor organización y transparencia"
